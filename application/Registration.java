@@ -61,5 +61,4 @@ public class Registration
 		this.password=password;
 		this.phoneNo=phoneNo;
 	}
-	
 }
